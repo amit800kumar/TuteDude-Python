@@ -1,5 +1,5 @@
 # TuteDude-Python
-For Task 1:
+Task 1:
 1. Program will akes two numbers as input from the user.
 2. After submit two numbers it will show the result.
 3. Result is:
@@ -9,4 +9,15 @@ For Task 1:
   Subtraction:  4
   Multiplication:  12
   Division:  3.0
+
+Task 2:
+1. Prompts the user to enter their first and last names.
+2. Stores the inputs in first_name and last_name.
+3. Combines those values with some extra text using + to create a friendly greeting.
+4. Result:
+   Enter the first name: Alex
+   Enter the last name: Johnson
+   Hello, Alex Johnson! Welcome to the Python program.
+
+
 
